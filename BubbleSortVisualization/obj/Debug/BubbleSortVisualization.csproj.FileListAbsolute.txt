@@ -1,0 +1,10 @@
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Form1.resources
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.cache
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+C:\Users\Cem\source\repos\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
